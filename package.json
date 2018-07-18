@@ -1,6 +1,6 @@
 {
   "name": "xcaps-utils",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "X-capsule utilities",
   "main": "index.js",
   "scripts": {
